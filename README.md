@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Indhu 👋
 
-<!--
-**Indhu-451/Indhu-451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student  
+💻 Learning Full Stack Web Development  
+🌱 Currently learning HTML, CSS, JavaScript  
+🚀 Interested in Web Development
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Portfolio Website
+- Full Stack Internship Tasks
